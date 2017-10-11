@@ -1,0 +1,6 @@
+[core]
+	autocrlf = true
+	excludesfile = C:\\Users\\Twinkle_Garg\\Documents\\gitignore_global.txt
+[user]
+	name = Twinkle Garg
+	email = twinkle_garg@epam.com
