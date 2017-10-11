@@ -1,0 +1,3 @@
+[core]
+	autocrlf = true
+	excludesfile = C:\\Users\\Twinkle_Garg\\Documents\\gitignore_globa
